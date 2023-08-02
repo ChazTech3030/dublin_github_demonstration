@@ -5,3 +5,5 @@ list of things
  - thing 3
 
  Some new text
+
+ ## Added new features
